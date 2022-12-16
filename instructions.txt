@@ -1,0 +1,9 @@
+Instructions to Run
+
+-Ryu Controller
+	vagrant ssh
+	ryu-manager ryu-app.py
+
+-Mininet topology
+	vagrant ssh
+	mininet.py topology.py
